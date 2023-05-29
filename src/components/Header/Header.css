@@ -1,0 +1,19 @@
+header{
+    background-color: #27293d;
+    padding: 20px;
+}
+
+header .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cartCounter{
+    text-align: center;
+    border-radius: 100%;
+    top: 17px;
+    right: 33px;
+    background-color: #fe086a;
+    padding: 3px 6px;
+    position: absolute;
+}

@@ -1,0 +1,37 @@
+.after-cart{
+    display: flex;
+    position: relative;
+    align-items: center;
+    top: 0%;
+    margin: 8% 10px;
+    transition: all 0.3s ease-in-out;
+}
+
+.cart-count{
+    margin: 0 30px;
+    color: whitesmoke;
+
+}
+
+.after-cart .cart-counter-button{
+    color: whitesmoke;
+    background-color: #ff398f;
+    width: 35px;
+    height: 35px;
+    border: none;
+    border-radius: 4.5px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.add-cart-button{
+
+    border: none;
+    padding: 8px;
+    color: whitesmoke;
+    border-radius: 8%;
+    background-color: #df2525;
+
+}
+.cart-counter{
+    padding: 9px;
+}
